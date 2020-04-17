@@ -2,9 +2,9 @@
 
 window.addEventListener('load', function(){
 
-var sourceControlId = 62540846, /** THE ID OF THE SENDER CONTROL */
+var sourceControlId = "price-0000002d-prefix-acc", /** THE ID OF THE SENDER CONTROL */
 
-var targetControlId = 62734621, /** THE ID OF THE RECEIVER CONTROL **/
+var targetControlId = "price-00000036-prefix-acc", /** THE ID OF THE RECEIVER CONTROL **/
 
 domAbstractionLayer = loader.getDOMAbstractionLayer(),
 
